@@ -1,0 +1,5 @@
+.venv/
+markdown/
+processed/
+__pycache__/
+pdf_ocr_md.egg-info/
